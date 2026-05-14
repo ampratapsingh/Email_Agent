@@ -4,6 +4,12 @@
 
 ---
 
+## Submission Links
+
+- [Presentation Link](https://docs.google.com/presentation/d/1cqyR_GFJTRnqzt9cSJ_zzueLMnZ4ZW9i/edit?usp=sharing&ouid=105910710045533925190&rtpof=true&sd=true)
+
+---
+
 ## Table of Contents
 
 1. [Project Overview](#-project-overview)
