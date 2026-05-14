@@ -169,7 +169,7 @@ cp .env.example .env
 GOOGLE_API_KEY=your_key_here
 LLM_PROVIDER=gemini
 LLM_MODEL=gemini-2.0-flash-exp
-DRY_RUN=true          # Keep true for testing!
+DRY_RUN=true          
 ```
 
 ### 3. Get a Gemini API Key (Free)
