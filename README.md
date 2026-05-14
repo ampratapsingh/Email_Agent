@@ -1,5 +1,4 @@
 # 💼 Finance Credit Follow-Up Email Agent
-### AI Enablement Internship — Task 2
 
 > An intelligent AI agent that automatically generates and dispatches personalised, tone-escalating follow-up emails for overdue invoices — reducing DSO while preserving client relationships.
 
@@ -335,4 +334,4 @@ Email_agent/
 
 ---
 
-*Built for AI Enablement Internship — Task 2: Finance Credit Follow-Up Email Agent*
+
