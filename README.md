@@ -1,10 +1,10 @@
-# 💼 Finance Credit Follow-Up Email Agent
+# Finance Credit Follow-Up Email Agent
 
 > An intelligent AI agent that automatically generates and dispatches personalised, tone-escalating follow-up emails for overdue invoices — reducing DSO while preserving client relationships.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 1. [Project Overview](#-project-overview)
 2. [Agent Architecture](#-agent-architecture)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 Finance teams spend significant time chasing overdue payments. Manual follow-ups are inconsistent in tone and timing. This AI agent automates the workflow:
 
@@ -32,7 +32,7 @@ Finance teams spend significant time chasing overdue payments. Manual follow-ups
 
 ---
 
-## 🏗 Agent Architecture
+## Agent Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -75,7 +75,7 @@ Finance teams spend significant time chasing overdue payments. Manual follow-ups
 
 ---
 
-## 📊 Escalation Matrix
+## Escalation Matrix
 
 | Stage | Trigger | Tone | Key Message | CTA |
 |-------|---------|------|-------------|-----|
@@ -87,7 +87,7 @@ Finance teams spend significant time chasing overdue payments. Manual follow-ups
 
 ---
 
-## 🛠 Tech Stack & Decision Log
+## Tech Stack & Decision Log
 
 ### LLM Chosen
 
@@ -129,9 +129,9 @@ The system prompt (`llm_engine.py`) follows these principles:
 
 ---
 
-## 🔒 Security Mitigations
+## Security Mitigations
 
-> ⚠️ **This section addresses all mandatory security requirements from the brief.**
+> **This section addresses all mandatory security requirements from the brief.**
 
 | Risk | Mitigation Strategy Implemented |
 |------|---------------------------------|
@@ -146,7 +146,7 @@ The system prompt (`llm_engine.py`) follows these principles:
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone & Install Dependencies
 
@@ -197,7 +197,7 @@ Edit `data/invoices.csv` with your invoice records. Required columns:
 
 ---
 
-## 🚀 Running the Agent
+## Running the Agent
 
 ### CLI (Recommended for batch processing)
 
@@ -228,7 +228,7 @@ Opens at `http://localhost:8501`
 
 ---
 
-## 📊 Streamlit Dashboard
+## Streamlit Dashboard
 
 The dashboard provides:
 
@@ -241,7 +241,7 @@ The dashboard provides:
 
 ---
 
-## 📄 Sample Output
+## Sample Output
 
 ### Console Output (Dry Run)
 
@@ -295,7 +295,7 @@ The dashboard provides:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Email_agent/
@@ -322,7 +322,7 @@ Email_agent/
 
 ---
 
-## 📝 Prompt Iterations (Design Notes)
+## Prompt Iterations (Design Notes)
 
 1. **v1 — Simple prompt:** Asked LLM to "write an email for overdue invoice." Result: Generic, often hallucinated wrong amounts or missing the invoice number.
 
