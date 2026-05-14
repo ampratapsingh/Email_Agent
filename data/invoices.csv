@@ -1,0 +1,11 @@
+invoice_no,client_name,client_email,amount,currency,due_date,follow_up_count,contact_person,company_name,phone
+INV-2024-001,Rajesh Kapoor,rajesh.kapoor@techsolutions.in,45000,INR,2026-04-20,0,Rajesh Kapoor,TechSolutions Pvt Ltd,+91-9876543210
+INV-2024-002,Priya Sharma,priya.sharma@globalimports.com,128500,INR,2026-04-27,1,Priya Sharma,Global Imports Ltd,+91-9823456789
+INV-2024-003,Arjun Mehta,arjun.mehta@mediahub.co.in,73200,INR,2026-04-15,2,Arjun Mehta,MediaHub Solutions,+91-9712345678
+INV-2024-004,Sunita Verma,sunita.verma@buildcraft.in,215000,INR,2026-04-08,3,Sunita Verma,BuildCraft Infrastructure,+91-9601234567
+INV-2024-005,Vikram Nair,vikram.nair@logisticspro.com,89750,INR,2026-04-01,4,Vikram Nair,LogisticsPro India,+91-9590123456
+INV-2024-006,Ananya Roy,ananya.roy@retailking.in,34600,INR,2026-05-05,0,Ananya Roy,RetailKing Stores,+91-9489012345
+INV-2024-007,Kiran Patel,kiran.patel@softedge.io,162000,INR,2026-04-28,1,Kiran Patel,SoftEdge Technologies,+91-9378901234
+INV-2024-008,Deepak Joshi,deepak.joshi@pharmalink.co.in,55400,INR,2026-04-18,2,Deepak Joshi,PharmaLink Healthcare,+91-9267890123
+INV-2024-009,Meera Iyer,meera.iyer@fashionwave.com,98300,INR,2026-04-10,3,Meera Iyer,FashionWave Online,+91-9156789012
+INV-2024-010,Rohit Gupta,rohit.gupta@autohub.in,310000,INR,2026-03-31,4,Rohit Gupta,AutoHub Dealerships,+91-9045678901
